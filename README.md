@@ -5,3 +5,5 @@ disable error reporting
 disable hybernation
 
 vcredist aio
+
+openhashtab
